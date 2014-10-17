@@ -8,11 +8,11 @@ languages: objc
 
 Your goal is to reproduce this settings page in a `UITableViewController`
 
-![Setting ScreenShot](screenshot.png)
+![Setting ScreenShot](http://ironboard-curriculum-content.s3.amazonaws.com/iOS/soundsTable-Screenshot.png)
 
-The first step is to implement this just using static cells. Once you get that
-working, try and make three different types of cells for the three different
-types of cells here and use dynamic prototypes to make it work!
+ 1. Make a new project (just want to make sure you still know how :) )
+ 2. Implement this using Static Cells
+ 3. Re-implement with Dynamic Prototypes...isn't that annoying?
 
 ## Resources
 
